@@ -32,35 +32,35 @@ Hi 👋, I'm Betelhem! I'm a passionate Software Engineering student with a stro
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Betelhemze&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betelhemze&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Betelhemze&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betelhemze&layout=compact&langs_count=7&theme=radical" alt="Top Langs" />
+</p>
 
 <br />
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Betelhemze&theme=radical" alt="GitHub Streak" />
-</div>
+</p>
 
 ## 🏆 Top Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Betelhemze/herlink-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=herlink-app&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=herlink-app&theme=radical" alt="Herlink App Repo Card" />
   </a>
   <a href="https://github.com/Betelhemze/Secure-document-verification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Secure-document-verification&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Secure-document-verification&theme=radical" alt="Secure Document Verification Repo Card" />
   </a>
-</div>
+</p>
 
 ## 🌟 Most Contributed
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Betelhemze/Secure-document-verification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Secure-document-verification&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Secure-document-verification&theme=radical" alt="Most Contributed Repo" />
   </a>
-</div>
+</p>
 
 ---
 <div align="center">
