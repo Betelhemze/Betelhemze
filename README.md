@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=70&fontAlignY=35" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20There!%20👋&fontSize=70&fontAlignY=35" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">I'm Betelhem Wondale</h1>
@@ -26,7 +26,7 @@ Hi 👋, I'm Betelhem! I'm a passionate Software Engineering student with a stro
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,js,ts,react,html,css,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,js,react,html,css,git,github,figma" />
   </a>
 </p>
 
@@ -46,25 +46,21 @@ Hi 👋, I'm Betelhem! I'm a passionate Software Engineering student with a stro
 ## 🏆 Top Projects
 
 <div align="center">
-  <a href="https://github.com/Betelhemze/Your-Pinned-Repo-Name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Your-Pinned-Repo-Name&theme=radical" />
+  <a href="https://github.com/Betelhemze/herlink-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=herlink-app&theme=radical" />
   </a>
-  <a href="https://github.com/Betelhemze/Another-Project-Name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Another-Project-Name&theme=radical" />
+  <a href="https://github.com/Betelhemze/Secure-document-verification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Secure-document-verification&theme=radical" />
   </a>
 </div>
-
-*(Note: Replace `Your-Pinned-Repo-Name` and `Another-Project-Name` in the code with your actual repository names!)*
 
 ## 🌟 Most Contributed
 
 <div align="center">
-  <a href="https://github.com/Betelhemze/Most-Contributed-Repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Most-Contributed-Repo&theme=radical" />
+  <a href="https://github.com/Betelhemze/Secure-document-verification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Secure-document-verification&theme=radical" />
   </a>
 </div>
-
-*(Note: Replace `Most-Contributed-Repo` in the code with the repository you contribute to the most!)*
 
 ---
 <div align="center">
