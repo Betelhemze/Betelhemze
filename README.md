@@ -1,14 +1,72 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=70&fontAlignY=35" alt="Banner" width="100%"/>
+</div>
 
-<h1 align="center">Betelhem Wondale</h1>
-<h3 align="center">Backend Developer | UI/UX Designer</h3> 
+<h1 align="center">I'm Betelhem Wondale</h1>
+<h3 align="center">Backend Developer | UI/UX Designer | Software Engineering Student</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Betelhemze&label=Profile%20views&color=0e75b6&style=flat" alt="betelhemze" />
+</p>
+
 ---
-<br>
-## About Me 
-Hi 👋, I'm Betelhem  
 
-- 🎓 Software Engineering Student  
-- 💻 Backend Developer (Node.js, Express, MongoDB, PostgreSQL)  
-- 🎨 UI/UX Designer  
-- 🚀 Currently learning Full-Stack Development  
-- 🌱 Goal: Become a top software engineer  
+## 🙋‍♀️ About Me 
+
+Hi 👋, I'm Betelhem! I'm a passionate Software Engineering student with a strong interest in Backend Development and UI/UX Design. 
+
+- 🎓 Currently pursuing my Software Engineering degree
+- 💻 Experienced Backend Developer (Node.js, Express, MongoDB, PostgreSQL)
+- 🎨 Creative UI/UX Designer dedicated to building intuitive user experiences
+- 🚀 Currently exploring Full-Stack Development
+- 🌱 My main goal: Become a world-class software engineer
+- 📫 How to reach me: [Your Email / LinkedIn]
+
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,js,ts,react,html,css,git,github,figma" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Betelhemze&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betelhemze&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Betelhemze&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🏆 Top Projects
+
+<div align="center">
+  <a href="https://github.com/Betelhemze/Your-Pinned-Repo-Name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Your-Pinned-Repo-Name&theme=radical" />
+  </a>
+  <a href="https://github.com/Betelhemze/Another-Project-Name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Another-Project-Name&theme=radical" />
+  </a>
+</div>
+
+*(Note: Replace `Your-Pinned-Repo-Name` and `Another-Project-Name` in the code with your actual repository names!)*
+
+## 🌟 Most Contributed
+
+<div align="center">
+  <a href="https://github.com/Betelhemze/Most-Contributed-Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Betelhemze&repo=Most-Contributed-Repo&theme=radical" />
+  </a>
+</div>
+
+*(Note: Replace `Most-Contributed-Repo` in the code with the repository you contribute to the most!)*
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
