@@ -32,13 +32,6 @@ Hi 👋, I'm Betelhem! I'm a passionate Software Engineering student with a stro
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Betelhemze&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Betelhemze) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Betelhemze&layout=compact&langs_count=7&theme=radical)](https://github.com/Betelhemze)
-
-</div>
-
-<br />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Betelhemze&theme=radical" alt="GitHub Streak" />
